@@ -11,7 +11,7 @@ The application is built on top of MySQL as the database, allowing seamless mana
 ## Swagger OpenAPI Doc
 
 <h6>Explore Swagger OpenAPI EMS Doc Spec.</h6>
- [**Swagger OpenAPI Doc**](Swagger-doc.md) 
+[Swagger OpenAPI Doc](Swagger-doc.md) 
 
 ---
 ## Features
